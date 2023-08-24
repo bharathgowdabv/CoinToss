@@ -1,0 +1,20 @@
+.refresh{
+    color:gold;
+    text-align: center;
+margin: 3px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    font-size: 400%;
+}
+body{
+    background-color: maroon;
+    text-align: center;
+.coins{
+    margin: 2%;
+}    
+}
+footer{
+    color: goldenrod;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
